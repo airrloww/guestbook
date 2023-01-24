@@ -5,7 +5,7 @@ This is a command line application that allows the user to create, read, update,
 
 Clone the repository:
 ```sh
-	    git clone https://github.com/airrloww/guestbook.git 
+	git clone https://github.com/airrloww/guestbook.git 
 ```
 Install the required packages:
 ```sh
