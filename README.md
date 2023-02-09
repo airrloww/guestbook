@@ -7,10 +7,7 @@ Clone the repository:
 ```sh
 	git clone https://github.com/airrloww/guestbook.git 
 ```
-Install the required packages:
-```sh
-	pip install -r requirements.txt 
-```
+
 Run the script:
 ```sh
 	python guestbook.py 
